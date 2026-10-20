@@ -2,21 +2,21 @@
 	"schemaVersion": 1,
 	"id": "easy-auto-fishing",
 	"version": "${version}",
-	"name": "easy auto fishing",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Easy Auto Fishing",
+	"description": "Client-side auto fishing. Press K to toggle: casts automatically, reels in when your bobber splashes, and stops before your rod breaks.",
 	"authors": [
-		"Me!"
+		"Shinichicken"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/easy-auto-fishing/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
-		"main": [
-			"com.shinichicken.easyautofishing.EasyAutoFishing"
+		"client": [
+			"com.shinichicken.easyautofishing.client.EasyAutoFishingClient"
 		]
 	},
 	"mixins": [

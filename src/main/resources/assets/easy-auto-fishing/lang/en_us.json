@@ -1,0 +1,7 @@
+{
+	"key.category.easy-auto-fishing.main": "Easy Auto Fishing",
+	"key.easy-auto-fishing.toggle": "Toggle Auto Fishing",
+	"message.easy-auto-fishing.enabled": "Auto Fishing: ON",
+	"message.easy-auto-fishing.disabled": "Auto Fishing: OFF",
+	"message.easy-auto-fishing.low_durability": "Auto Fishing stopped: fishing rod has 1 durability left"
+}

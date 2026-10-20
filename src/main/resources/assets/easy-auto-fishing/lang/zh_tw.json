@@ -1,0 +1,7 @@
+{
+	"key.category.easy-auto-fishing.main": "簡易自動釣魚",
+	"key.easy-auto-fishing.toggle": "切換自動釣魚",
+	"message.easy-auto-fishing.enabled": "自動釣魚：開啟",
+	"message.easy-auto-fishing.disabled": "自動釣魚：關閉",
+	"message.easy-auto-fishing.low_durability": "自動釣魚已停止：釣竿只剩 1 點耐久"
+}
